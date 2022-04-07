@@ -15,7 +15,7 @@ export default function Layout({children}) {
   return (
     <LayoutWrapper>
         <main>{children}</main>
-        <Navbar/>
+       {/*  <Navbar/> */}
     </LayoutWrapper>
   )
 }
