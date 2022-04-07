@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components';
-import Navbar from '../NavBar/Navbar';
+/* import Navbar from '../NavBar/Navbar'; */
 
 const LayoutWrapper = styled.div`
     width: 500px;
